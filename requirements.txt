@@ -1,0 +1,7 @@
+smolagents==1.26.0
+openai>=1.0,<4
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+matplotlib>=3.8,<4
+socksio>=1.0,<2
+rich>=13,<15
